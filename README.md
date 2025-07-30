@@ -1,4 +1,5 @@
-# SpaceKit - E-commerce Website Replica [Live Demo]((https://tasdidkabiradil.github.io/Spacekit-Replica/))
+# SpaceKit - E-commerce Website Replica 
+[Live Demo](https://tasdidkabiradil.github.io/Spacekit-Replica/)
 
 A responsive e-commerce website replica built with React, Vite, and Tailwind CSS to showcase frontend design and development skills.
 
